@@ -2,7 +2,7 @@
 <h1 align="center"><code>OsintPlus</code></h1> <p 
 align="center"> <img src="https://github.com/ByexeOfficial999/OsintPlus/blob/main/IMG/Screenshot_20260513-103640.png" width="590"><br><br>
 
-***DirSearch*** adalah ***tools berbasis Python*** yang digunakan untuk melakukan ***pemindaian*** dan ***pencarian direktori serta file tersembunyi*** pada sebuah ***website*** dengan cara mencoba berbagai ***nama folder dan file umum*** menggunakan ***wordlist***, bertujuan untuk menemukan ***halaman yang tidak ditampilkan secara publik*** seperti ***panel admin***, ***file konfigurasi***, ***backup***, atau ***resource sensitif*** yang dapat digunakan dalam proses ***reconnaissance*** dan ***pengujian keamanan web***.
+***OsintPlus*** adalah tools berbasis Python yang dirancang untuk melakukan pencarian dan pengumpulan informasi digital (OSINT) seperti data nomor telepon, alamat IP, username, hingga informasi jaringan melalui berbagai sumber publik dan layanan API secara otomatis, dengan tujuan membantu proses reconnaissance, investigasi dasar, analisis identitas digital, serta monitoring informasi secara cepat dan praktis melalui antarmuka terminal yang sederhana, ringan, dan interaktif.
 
 ### INSTALLATION FOR TERMUX
 ```python
