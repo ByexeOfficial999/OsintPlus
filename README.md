@@ -1,6 +1,6 @@
 
 <h1 align="center"><code>OsintPlus</code></h1> <p 
-align="center"> <img src="https://github.com/ByexeOfficial999/dirsearch/blob/main/IMG/Screenshot_20260208-205800.png" width="590"><br><br>
+align="center"> <img src="https://github.com/ByexeOfficial999/OsintPlus/blob/main/IMG/Screenshot_20260513-103640.png" width="590"><br><br>
 
 ***DirSearch*** adalah ***tools berbasis Python*** yang digunakan untuk melakukan ***pemindaian*** dan ***pencarian direktori serta file tersembunyi*** pada sebuah ***website*** dengan cara mencoba berbagai ***nama folder dan file umum*** menggunakan ***wordlist***, bertujuan untuk menemukan ***halaman yang tidak ditampilkan secara publik*** seperti ***panel admin***, ***file konfigurasi***, ***backup***, atau ***resource sensitif*** yang dapat digunakan dalam proses ***reconnaissance*** dan ***pengujian keamanan web***.
 
